@@ -6,7 +6,7 @@
 
 ## About Me
 
-Bachelor's degree graduate in Information Systems from **Universitas Islam Negeri Sunan Ampel Surabaya** *(awaiting official graduation)* with a strong focus on Web and Mobile Development, covering Frontend and Backend, as well as UI/UX design.
+Bachelor's degree graduate in Information Systems from **Universitas Islam Negeri Sunan Ampel Surabaya** with a strong focus on Web and Mobile Development, covering Frontend and Backend, as well as UI/UX design.
 
 Experienced in developing Python-based projects, particularly in Machine Learning and Deep Learning, along with performing data analysis and integrating AI systems into web and mobile applications.
 
