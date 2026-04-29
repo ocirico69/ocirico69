@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:8b0000,60:8b0000,100:0d0d0d&height=220&section=header&text=Hi%20I%20am%20Rico%20Rahmat&fontSize=42&fontColor=FFD700&fontAlignY=40&desc=Web%20Mobile%20Developer%20Data%20Engineer&descSize=18&descColor=FFD700&descAlignY=60" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+Developer;Data+Engineer;Machine+Learning+Enthusiast;UI%2FUX+Designer;AI+Integration+Developer" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=258984&height=220&section=header&text=Hi%20I%20am%20Rico%20Rahmat&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Web%20Mobile%20Developer%20Data%20Engineer&descSize=18&descColor=FFFFFF&descAlignY=60" width="100%" />
 </p>
 
 ---
@@ -63,9 +57,9 @@ Experienced in developing Python-based projects, particularly in Machine Learnin
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:8b0000,60:8b0000,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=258984&height=120&section=footer" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ricorahmat&color=ffd700&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ricorahmat&color=258984&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
