@@ -1,7 +1,7 @@
-<!-- Header Wave SVG (Animated) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:8b0000,100:ff6b35&height=200&section=header&text=Hi%2C%20I'm%20Rico%20Rahmat%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Web%20%7C%20Mobile%20Developer%20%26%20Data%20Engineer&descAlignY=58&descSize=18&descColor=ffd700&animation=fadeIn" width="100%"/>
-</p>
+<!-- Header Wave (Animated) -->
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:8b0000,100:ff6b35&height=220&section=header&text=Hi%2C%20I%27m%20Rico%20Rahmat&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Web%20%7C%20Mobile%20Developer%20%26%20Data%20Engineer&descAlignY=60&descSize=18&descColor=ffd700" width="100%" alt="header"/>
+</picture>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -12,21 +12,15 @@
 
 ---
 
-About Me
+## About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
 
-**Bachelor's degree graduate** in Information Systems from **Universitas Islam Negeri Sunan Ampel Surabaya** *(awaiting official graduation)*
+Bachelor's degree graduate in Information Systems from **Universitas Islam Negeri Sunan Ampel Surabaya** *(awaiting official graduation)* with a strong focus on Web and Mobile Development, covering Frontend and Backend, as well as UI/UX design.
 
-Strong focus on **Web & Mobile Development** — covering Frontend, Backend, and **UI/UX Design**
+Experienced in developing Python-based projects, particularly in Machine Learning and Deep Learning, along with performing data analysis and integrating AI systems into web and mobile applications.
 
-Experienced in **Python-based projects**, particularly in **Machine Learning** and **Deep Learning**
-
-Passionate about **Data Analysis** and integrating **AI systems** into web and mobile applications
-
-Keen interest in building **intuitive, efficient, and user-friendly** digital solutions
-
-Strong communicator who thrives in collaborative, fast-paced environments
+Possesses strong communication skills and a keen interest in building intuitive, efficient, and user-friendly digital solutions.
 
 <br clear="right"/>
 
@@ -39,8 +33,12 @@ Strong communicator who thrives in collaborative, fast-paced environments
     <img src="https://img.shields.io/badge/Gmail-ricorahmat38%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/rahmat_rico" target="_blank">
+  <a href="https://www.instagram.com/rahmat_rico?igsh=MTBpMTN5bHhzcndhdQ==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40rahmat__rico-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rico-rahmat-940775259/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rico%20Rahmat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/ricorahmat" target="_blank">
@@ -73,7 +71,7 @@ Strong communicator who thrives in collaborative, fast-paced environments
 
 ---
 
-## 🔧 Tools
+## Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,figma,androidstudio,docker&theme=dark" />
@@ -85,40 +83,10 @@ Strong communicator who thrives in collaborative, fast-paced environments
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricorahmat&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffd700&icon_color=ffd700&text_color=ffffff&border_color=8b0000&border_radius=10&hide_border=false" height="180" alt="Rico's GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ricorahmat&theme=dark&background=0d1117&ring=ffd700&fire=ff6b35&currStreakLabel=ffd700&border=8b0000&border_radius=10" height="180" alt="Rico's Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricorahmat&layout=compact&theme=dark&bg_color=0d1117&title_color=ffd700&text_color=ffffff&border_color=8b0000&border_radius=10&langs_count=8" height="180" alt="Top Languages"/>
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ricorahmat&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=false" alt="trophies"/>
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricorahmat&bg_color=0d1117&color=ffd700&line=8b0000&point=ff6b35&area=true&hide_border=false&border_color=8b0000" width="95%" alt="Activity Graph"/>
-</p>
-
----
-
-<!-- Footer Wave SVG (Animated) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:8b0000,100:1a1a2e&height=120&section=footer&animation=fadeIn" width="100%"/>
-</p>
+<!-- Footer Wave (Animated) -->
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:8b0000,100:1a1a2e&height=120&section=footer" width="100%" alt="footer"/>
+</picture>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ricorahmat&color=ffd700&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
