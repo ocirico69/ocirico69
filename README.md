@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:8b0000,60:8b0000,100:0d0d0d&height=220&section=header&text=Hi%2C%20I%27m%20Rico%20Rahmat&fontSize=42&fontColor=FFD700&fontAlignY=40&desc=Web%20%7C%20Mobile%20Developer%20%26%20Data%20Engineer&descSize=18&descColor=FFD700&descAlignY=60&animation=fadeIn" width="100%"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+Developer;Data+Engineer;Machine+Learning+Enthusiast;UI%2FUX+Designer;AI+Integration+Developer" alt="Typing SVG" />
@@ -13,11 +12,9 @@
 
 ## About Me
 
-Bachelor's degree graduate in Information Systems from **Universitas Islam Negeri Sunan Ampel Surabaya** *(awaiting official graduation)* with a strong focus on Web and Mobile Development, covering Frontend and Backend, as well as UI/UX design.
+Bachelor's degree graduate in Information Systems from **Universitas Islam Negeri Sunan Ampel Surabaya** *(awaiting official graduation)* with a strong focus on **Web and Mobile Development**, covering Frontend and Backend, as well as UI/UX design.
 
-Experienced in developing Python-based projects, particularly in Machine Learning and Deep Learning, along with performing data analysis and integrating AI systems into web and mobile applications.
-
-Possesses strong communication skills and a keen interest in building intuitive, efficient, and user-friendly digital solutions.
+Experienced in developing Python-based projects, particularly in **Machine Learning and Deep Learning**, along with performing data analysis and integrating AI systems into web and mobile applications.
 
 ---
 
@@ -27,17 +24,11 @@ Possesses strong communication skills and a keen interest in building intuitive,
   <a href="mailto:ricorahmat38@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ricorahmat38%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://www.instagram.com/rahmat_rico?igsh=MTBpMTN5bHhzcndhdQ==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40rahmat__rico-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/rico-rahmat-940775259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rico%20Rahmat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/ricorahmat" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ricorahmat-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -58,18 +49,12 @@ Possesses strong communication skills and a keen interest in building intuitive,
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-### Database
+### Database & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
-  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,vscode,figma,androidstudio,docker&theme=dark" />
 </p>
 
----
-
-## Tools
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,androidstudio,docker&theme=dark" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -78,7 +63,11 @@ Possesses strong communication skills and a keen interest in building intuitive,
 
 ---
 
-<!-- Footer Wave -->
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ricorahmat&show_icons=true&theme=dark&rank_icon=github&border_radius=10&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d0d0d" alt="Rico's GitHub Stats" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:8b0000,60:8b0000,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
