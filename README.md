@@ -16,8 +16,6 @@ Bachelor's degree graduate in Information Systems from **Universitas Islam Neger
 
 Experienced in developing Python-based projects, particularly in Machine Learning and Deep Learning, along with performing data analysis and integrating AI systems into web and mobile applications.
 
-Possesses strong communication skills and a keen interest in building intuitive, efficient, and user-friendly digital solutions.
-
 ---
 
 ## Connect With Me
@@ -57,22 +55,9 @@ Possesses strong communication skills and a keen interest in building intuitive,
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-### Database
+### Database & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
-  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
----
-
-## Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,androidstudio,docker&theme=dark" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,vscode,figma,androidstudio,docker&theme=dark" />
 </p>
 
 ---
