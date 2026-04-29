@@ -1,7 +1,6 @@
-<!-- Header Wave (Animated) -->
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:8b0000,100:ff6b35&height=220&section=header&text=Hi%2C%20I%27m%20Rico%20Rahmat&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Web%20%7C%20Mobile%20Developer%20%26%20Data%20Engineer&descAlignY=60&descSize=18&descColor=ffd700" width="100%" alt="header"/>
-</picture>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:8b0000,60:8b0000,100:0d0d0d&height=220&section=header&text=Hi%2C%20I%27m%20Rico%20Rahmat&fontSize=42&fontColor=FFD700&fontAlignY=40&desc=Web%20%7C%20Mobile%20Developer%20%26%20Data%20Engineer&descSize=18&descColor=FFD700&descAlignY=60&animation=fadeIn" width="100%"/>
+</p>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -14,15 +13,11 @@
 
 ## About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
-
 Bachelor's degree graduate in Information Systems from **Universitas Islam Negeri Sunan Ampel Surabaya** *(awaiting official graduation)* with a strong focus on Web and Mobile Development, covering Frontend and Backend, as well as UI/UX design.
 
 Experienced in developing Python-based projects, particularly in Machine Learning and Deep Learning, along with performing data analysis and integrating AI systems into web and mobile applications.
 
 Possesses strong communication skills and a keen interest in building intuitive, efficient, and user-friendly digital solutions.
-
-<br clear="right"/>
 
 ---
 
@@ -83,10 +78,10 @@ Possesses strong communication skills and a keen interest in building intuitive,
 
 ---
 
-<!-- Footer Wave (Animated) -->
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:8b0000,100:1a1a2e&height=120&section=footer" width="100%" alt="footer"/>
-</picture>
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:8b0000,60:8b0000,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ricorahmat&color=ffd700&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
