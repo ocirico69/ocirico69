@@ -28,7 +28,7 @@ Experienced in developing Python-based projects, particularly in Machine Learnin
   </a>
   &nbsp;
   <a href="https://github.com/ricorahmat" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ricorahmat-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-ocirico69-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
